@@ -1,6 +1,6 @@
 # Howdy 👋
 
-I'm Andy Ta, a freshman Software Engineer studying CS at UT Arlington. <br><br>
+I'm Andy Ta, a Computer Science student at UT Arlington wishing to get into Software Engineering or Software-related roles. <br><br>
 I'm currently completing the Odin Project, an open-source learning platform for full-stack development, and I'm happy to get the chance to learn something new each day and experiment with it! <br><br>
 My main tech stack as of now includes HTML, CSS, JS, and Webpack, but I am hoping to include more like React, TypeScript, and Express.js as I learn. <br><br>
 My favorite project I created and the one that I use daily is [Rowlets-Do](https://github.com/AndyKhandy/todo_list) as it combines my love for Pokemon and my Academic side!<br><br>
