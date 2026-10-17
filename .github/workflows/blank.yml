@@ -1,3 +1,4 @@
+
 name: Metrics
 
 on:
@@ -12,7 +13,8 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
@@ -26,16 +28,10 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_details: percentage
 
-          # 3D contributions
+          # 3D contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 6
+          # Disable failing plugins
+          plugin_habits: no
+          plugin_achievements: no
