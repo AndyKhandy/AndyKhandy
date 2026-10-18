@@ -1,12 +1,36 @@
-# Howdy 👋
+# Howdy, I'm Andy Ta👋
 
-I'm Andy Ta, a Computer Science student at UT Arlington, wishing to get into Software Engineering or Software-related roles. <br><br>
-I'm currently completing the Odin Project, an open-source learning platform for full-stack development, and I'm happy to get the chance to learn something new each day and experiment with it! <br><br>
-My main tech stack as of now includes React, Express, PostgreSQL, Tailwind CSS, HTML, and JavaScript, but I am hoping to include more, like Next.js, TypeScript, and Docker as I learn. <br><br>
-My favorite project I created and the one that I use daily is [Rowlets-Do](https://github.com/AndyKhandy/todo_list) as it combines my love for Pokémon and my Academic side!<br><br>
-Fun Facts:
-* I love to do Archery, Running, and Taekwondo as outside activities
-* I'm a fan of anime, especially Pokémon (Rowlet is the best starter)
+<img src="Sun&Moon.jpg" width="100%">
+
+<br>
+
+
+## ✨ A Little About Me 
+* 🎓 CS Student at UT Arlington
+
+* 💻 Test Engineering Intern at Lockheed Martin
+
+* 🧩 Undergraduate Researcher exploring programming tools
+
+* 🛠️ I enjoy turning ideas into real, working applications
+
+* 🍃 Pokémon enthusiast — Rowlet supremacy!
+
+
+## 💻 What I'm Currently Up To
+
+
+* 🔭 Working on AlloyBlocks, a visual block-based programming environment for the Alloy modeling language.
+
+* 🌱 Improving my skills in TypeScript, Express.js, Python, and FastAPI, with an emphasis on backend development and software architecture.
+
+* 🛠️ Building full-stack applications and exploring databases, APIs, testing, and deployment.
+
+* 🎯 Preparing for software engineering opportunities and strengthening my data structures and algorithms skills.
+
+## GitHub Statistics
+
+![GitHub Metrics](./github-metrics.svg)
 
 
 ## 🌐 Socials:
@@ -20,6 +44,19 @@ Fun Facts:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## ⚡ Fun Facts
 
+* 🏹 I enjoy archery, tennis, and working out.
+
+* 🎮 I'm a huge Pokémon fan, especially Rowlet (objectively the best starter).
+
+* 🧠 I love learning how things work, whether that's a programming language, framework, or an unfamiliar technology.
+
+* 🌱 I believe some of the best ways to learn are by building projects, making mistakes, and figuring out how to fix them!
+
+
+Thanks for stopping by! Feel free to check out my repositories and see what I've been building. 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
